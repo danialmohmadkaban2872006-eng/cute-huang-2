@@ -74,7 +74,7 @@ export default function AIChatGuide() {
           </h2>
           <div style={{ width: '100px', height: '1px', background: 'linear-gradient(90deg, transparent, #B76E79, transparent)', margin: '1rem auto' }} />
           <p style={{ color: 'rgba(240,230,255,0.6)', fontStyle: 'italic', fontSize: '0.9rem' }}>
-            Powered by cosmic intelligence • Groq LLM
+            By Danial
           </p>
         </div>
 
